@@ -1,6 +1,9 @@
 # 🏗 scaffold-eth - 🔵 Loogies SVG NFT
 
 
+**********LIVE DEMO*****************
+http://enchanted-alarm.surge.sh/
+
 ```bash
 git clone https://github.com/austintgriffith/scaffold-eth.git loogies-svg-nft
 
